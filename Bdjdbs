@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/mzzvxm/RedacaoBypass@main/script.js?t='+Date.now();s.crossOrigin='anonymous';s.onload=function()%7Bconsole.log('RedacaoBypass%20loaded%20(no-cache)')%7D;document.head.appendChild(s)%7D)();
